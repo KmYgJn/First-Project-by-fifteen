@@ -2,4 +2,4 @@
 협업 테스트
 
 Sin Han(sean)
-teddy
+Lee Suah(sallys)
