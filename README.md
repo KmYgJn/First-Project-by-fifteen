@@ -1,7 +1,7 @@
 # First-Project-by-fifteen
 협업 테스트
 
-Sin Han(sean)  
+sean.han(한신)  
 Lee Suah(sally)  
 alex.park(박민영)
 Lee Somin(selina)
